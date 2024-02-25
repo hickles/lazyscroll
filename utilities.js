@@ -34,7 +34,7 @@ window.onload = function() {
     ScrollReveal().reveal('.class5', {
         delay: 250,
         scale: 0.2,
-        opacity: 1,
+        opacity: .2,
         desktop: true,
     });
 };
