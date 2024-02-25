@@ -1,1 +1,25 @@
 /* Add screen styles below */
+body {
+    margin: 0;
+    background-color: #F1EDE2;
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    margin: 250px;
+    margin-top: 10vh;
+    margin-bottom: 48px;
+    color: #4C5760;
+    font-weight: bold;
+    line-height: 2;
+}
+
+img{
+    float: left;
+    margin-top: 32px;
+    margin-left: 200px;
+    margin-right: 64px;
+    margin-bottom: 32px;
+    height: 350px;
+    width: auto;
