@@ -1,9 +1,9 @@
-//window.onload = function()//
-document.addEventListener('DOMContentLoaded', function() {
+window.onload = function() {
     ScrollReveal().reveal('.class1', {
         delay: 500,
         distance: '200px',
         origin: 'left',
+        opacity: .1,
         desktop: true,
     });
     ScrollReveal().reveal('.class2', {
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     ScrollReveal().reveal('.class5', {
         delay: 550,
         scale: 0.2,
-        opacity: .2,
+        opacity: .1,
         desktop: true,
     });
 };
