@@ -11,9 +11,13 @@ h1{
     font-weight: bold;
 }
 
+.container {
+    margin: auto; 
+    text-align: center; 
+    max-width: 400px; 
+    
 .container img {
-    margin: auto;
-    text-align: center;
-    max-width: 400px;
-    max-height: auto;
+    width: 100%;
+    height: auto; 
+    margin: 10px 0
 }
