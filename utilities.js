@@ -1,4 +1,5 @@
-window.onload = function() {
+//window.onload = function()//
+document.addEventListener('DOMContentLoaded', function() {
     ScrollReveal().reveal('.class1', {
         delay: 500,
         distance: '200px',
