@@ -1,12 +1,12 @@
 window.onload = function() {
     ScrollReveal().reveal('.class1', {
-        delay: 50,
+        delay: 500,
         distance: '200px',
         origin: 'left',
         desktop: true,
     });
     ScrollReveal().reveal('.class2', {
-        delay: 100,
+        delay: 500,
         rotate: {
             x: 0,
             y: 0,
@@ -16,13 +16,13 @@ window.onload = function() {
         desktop: true,
     });
     ScrollReveal().reveal('.class3', {
-        delay: 150,
+        delay: 550,
         distance: '50px',
         origin: 'right',
         desktop: true,
     });
     ScrollReveal().reveal('.class4', {
-        delay: 200,
+        delay: 550,
         scale: 0.8,
         rotate: {
             x: 0,
@@ -32,7 +32,7 @@ window.onload = function() {
         desktop: true,
     });
     ScrollReveal().reveal('.class5', {
-        delay: 250,
+        delay: 550,
         scale: 0.2,
         opacity: .2,
         desktop: true,
