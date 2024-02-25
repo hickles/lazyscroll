@@ -6,7 +6,7 @@ body {
 h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 36px;
-    margin-left: 96px;
+    text-align: center;
     color: #1d4e89;
     font-weight: bold;
 }
