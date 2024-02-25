@@ -1,5 +1,6 @@
 window.onload = function() {
     ScrollReveal().reveal('.class1', {
+        delay: 50,
         distance: '50px',
         origin: 'left',
         desktop: true,
