@@ -11,10 +11,7 @@ h1{
     font-weight: bold;
 }
 
-img{
-    margin-top: 32px;
-    margin-left: 200px;
-    margin-right: 64px;
-    margin-bottom: 32px;
-    height: 350px;
-    width: auto;
+.container {
+    margin: auto;
+    text-align: center;
+}
